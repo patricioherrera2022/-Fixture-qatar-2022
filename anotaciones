@@ -1,8 +1,9 @@
 *head (rama base)
 *Haciendo Git merge (nombre de la rama)
-*1 conflicted file (alguien modifico algun archivo, entonces habria que resolverlo de forma manual)
-*Create merege commit
-*resolver conflicto antes de merge
-  -Team - resolve conflicts. (se puede volver a atras con la aprobación de los cambios).
+* 1 conflicted file (alguien modifico algun archivo, entonces habria que resolverlo de forma manual)
+* Create merege commit
+* resolver conflicto antes de merge
+  - Team - resolve conflicts. (se puede volver a atras con la aprobación de los cambios).
    - Una vez resuelto todos los conflictos.
-
+    - Realizamos el Commit.
+      - 
